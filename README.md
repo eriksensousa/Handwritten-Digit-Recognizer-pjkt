@@ -1,5 +1,8 @@
 # Machine Learning Handwritten Digit Recognizer in Python
 
+![handwritten](https://github.com/eriksensousa/Handwritten-Digit-Recognizer-pjkt/assets/126014537/14e81c36-316c-4657-bafd-76c482c958c7)
+
+
 Introduction: Handwritten digit recognition is a common problem in the field of machine learning and computer vision. It involves the use of machine learning algorithms to recognize and classify handwritten digits from images. In this project, we will explore how to create a handwritten digit recognizer using the Python programming language.
 
 Background: Python provides several libraries for performing machine learning tasks, including scikit-learn, which is a powerful library for building machine learning models. Scikit-learn provides a wide range of algorithms for classification, regression, clustering, and dimensionality reduction, as well as tools for model selection and evaluation.
